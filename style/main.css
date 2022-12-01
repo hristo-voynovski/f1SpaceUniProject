@@ -1,0 +1,101 @@
+
+
+
+.background{
+    background-size: cover;
+    min-height: 100vh;
+
+}
+
+.bg-danger{
+    background-color: #E10600 !important;
+}
+
+.navbar-nav > li{
+    padding-left:30px;
+    padding-right:30px;
+    font-size: large;
+}
+
+body{
+    background-color: rgb(228, 228, 228);
+}
+
+section{
+    padding-top: 5em;
+}
+
+#contact{
+    margin-bottom: 6em;
+}
+
+#williams{
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(27, 24, 248) !important;
+}
+
+#alfa{
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(201, 0, 0) !important;
+}
+
+#ferrari{
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(255, 0, 0) !important;
+}
+
+#aston{
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(0, 124, 31) !important;
+}
+
+#alpine{
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(0, 132, 255) !important;
+}
+
+#rb{
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(96, 0, 252) !important;
+}
+
+#mercedes{
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(0, 184, 190) !important
+}
+
+#mclaren{
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(255, 174, 0) !important
+}
+
+#haas{
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(173, 173, 173) !important
+}
+
+#at{
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(0, 121, 190) !important
+}
+
